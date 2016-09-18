@@ -2,7 +2,7 @@
 
 Survival Pack (Compass|Level|Light|General Info)
 
-# Screenshots
+### Screenshots
 
 <img width=200 src="https://github.com/rostdev/survival-pack/blob/master/screenshots/compass_view.png" />
 <img width=200 src="https://github.com/rostdev/survival-pack/blob/master/screenshots/level_view.png" />
