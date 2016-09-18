@@ -1,4 +1,4 @@
-# Fifteen puzzle
+# Survival Pack
 
 Survival Pack (Compass|Level|Light|General Info)
 
